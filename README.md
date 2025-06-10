@@ -34,14 +34,17 @@ A hands-on log analysis lab using the **Kibana Discover tab** to filter, search,
 
 ## 📸 Screenshots
 
-**1. Elastic Stack Homepage**  
+## **1. Elastic Stack Homepage**  
 <img src="https://i.imgur.com/eQ1qoAI.png" width="600"/>
+
 
 **2. Kibana Home - Analytics Page**  
 <img src="https://i.imgur.com/4heOhLA.png" width="600"/>
 
+
 **3. Dashboard + Discover Tab Interface**  
 <img src="https://i.imgur.com/9AYqEzC.png" width="600"/>
+
 
 **4. Time Filter Set: Dec 31, 2021 – Feb 2, 2022**  
 <img src="https://i.imgur.com/l69eCfs.png" width="600"/>
